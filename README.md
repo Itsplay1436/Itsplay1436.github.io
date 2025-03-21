@@ -10,17 +10,17 @@
     <p>Nome: Ítalo Campitelli.</p>
     <hr />
     <p>
-        <a href="https://www.politecnicosorocaba.com.br/">Escola anterior</a>
+        <a href="https://www.politecnicosorocaba.com.br/"target="_blank">Escola anterior</a>
     </p>
     <hr />
     <p>Motivação: poder criar o que quiser, desde que eu aprenda... E dinheiro.</p>
     <hr />
     <p>
-        <a href="https://supercell.com/en/games/brawlstars/">Hobby</a>
+        <a href="https://supercell.com/en/games/brawlstars/"target="_blank">Hobby</a>
     </p>
     <hr />
     <p>
-        <a href="https://brawltime.ninja/pt/profile/GC08J8G0">Curiosidade (minha conta no brawl)</a>
+        <a href="https://brawltime.ninja/pt/profile/GC08J8G0"target="_blank">Curiosidade (minha conta no brawl)</a>
     </p>
 </body>
 </html>
